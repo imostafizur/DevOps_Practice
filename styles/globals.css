@@ -1,0 +1,76 @@
+.nowrap-table table tr td {
+    white-space: nowrap;
+}
+
+.sidebar-nav .nav-link {
+    color: hsl(201, 63%, 12%) !important;
+}
+
+.sidebar-nav .nav-link i {
+    color: hsl(201, 63%, 12%) !important;
+}
+
+.sidebar-nav .nav-link.active i {
+    color: #fff !important;
+}
+
+.nav-link:hover i.bi {
+    /* color: hsl(28, 91%, 54%) !important; */
+}
+
+.nav-link.active:hover i.bi {
+    color: #fff !important;
+}
+
+.nav-link.active {
+    background-color: hsl(28, 91%, 54%) !important;
+    color: #fff;
+}
+
+.nav-link.active span {
+    color: #fff;
+}
+
+.nav-link.active i.bi {
+    color: #fff;
+}
+
+.nav-link.active:hover {
+    color: #fff;
+}
+
+.customlink {
+    text-decoration: none !important;
+}
+
+.customlink:hover {
+    text-decoration: none !important;
+    color: tomato !important;
+}
+
+.form-control:focus {
+    box-shadow: none !important;
+}
+
+.btn-primary {
+    background-color: #1cb3e9 !important;
+    border-color: #1cb3e9 !important;
+}
+
+.btn-success {
+    background-color: #1cb3e9 !important;
+    border-color: #1cb3e9 !important;
+}
+
+.form-check-input:checked {
+    background-color: #1cb3e9 !important;
+    border-color: #1cb3e9 !important;
+}
+
+.form-check-input:focus {
+    box-shadow: none !important;
+}
+
+.form-select:focus {
+    box-shadow: none !important;
+}
